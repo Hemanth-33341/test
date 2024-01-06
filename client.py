@@ -137,9 +137,7 @@ class iotMQTT:
         self.accountId=""
         self.remoteACID=""
         self.remoteDeviceID=""
-        with open('./deviceid.json') as json_file:
-            data = json.load(json_file)
-            self.subscriptionId=data["deviceCommuncationId"]
+        self.subscriptionId="10050000"
             # self.accountId=data["accountId"]
         # try:
         #     self.remoteACID = data["RemoteACId"]
