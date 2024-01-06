@@ -1,0 +1,173 @@
+2.46
+1.17
+connecting to broker  4.240.114.7
+2.36
+1.43
+log: Sending CONNECT (u1, p1, wr1, wq1, wf1, c1, k10) client_id=b'10050000'
+log: Received CONNACK (0, 0)
+connected OK
+log: Sending SUBSCRIBE (d0, m9) [(b'/prod//10050000/intermsg/#', 0)]
+log: Sending SUBSCRIBE (d0, m10) [(b'10050000', 0)]
+log: Sending PUBLISH (d0, q1, r1, m11), 'b'/prod//10050000/status'', ... (35 bytes)
+log: Received SUBACK
+log: Received SUBACK
+log: Received PUBACK (Mid: 11)
+2.3
+1.4
+log: Sending PUBLISH (d0, q0, r0, m12), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m13), 'b'746770045049742/data'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m14), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m15), 'b'746770045049742/data'', ... (110 bytes)
+2.3
+1.33
+log: Sending PUBLISH (d0, q0, r0, m16), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m17), 'b'746770045049742/data'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m18), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m19), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.23
+1.37
+log: Sending PUBLISH (d0, q0, r0, m20), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m21), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m22), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m23), 'b'746770045049742/data'', ... (111 bytes)
+2.23
+1.1
+log: Sending PUBLISH (d0, q0, r0, m24), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m25), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m26), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m27), 'b'746770045049742/data'', ... (110 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.24
+1.14
+log: Sending PUBLISH (d0, q0, r0, m28), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m29), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m30), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m31), 'b'746770045049742/data'', ... (111 bytes)
+2.44
+1.13
+log: Sending PUBLISH (d0, q0, r0, m32), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m33), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m34), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m35), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.28
+1.31
+log: Sending PUBLISH (d0, q0, r0, m36), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m37), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m38), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m39), 'b'746770045049742/data'', ... (111 bytes)
+2.27
+1.24
+log: Sending PUBLISH (d0, q0, r0, m40), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m41), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m42), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m43), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.21
+1.14
+log: Sending PUBLISH (d0, q0, r0, m44), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m45), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m46), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m47), 'b'746770045049742/data'', ... (111 bytes)
+2.25
+1.3
+log: Sending PUBLISH (d0, q0, r0, m48), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m49), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m50), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m51), 'b'746770045049742/data'', ... (110 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.38
+1.34
+log: Sending PUBLISH (d0, q0, r0, m52), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m53), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m54), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m55), 'b'746770045049742/data'', ... (111 bytes)
+2.28
+1.33
+log: Sending PUBLISH (d0, q0, r0, m56), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m57), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m58), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m59), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.31
+1.42
+log: Sending PUBLISH (d0, q0, r0, m60), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m61), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m62), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m63), 'b'746770045049742/data'', ... (111 bytes)
+2.38
+1.44
+log: Sending PUBLISH (d0, q0, r0, m64), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m65), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m66), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m67), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.36
+1.39
+log: Sending PUBLISH (d0, q0, r0, m68), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m69), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m70), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m71), 'b'746770045049742/data'', ... (111 bytes)
+2.26
+1.26
+log: Sending PUBLISH (d0, q0, r0, m72), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m73), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m74), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m75), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.25
+1.24
+log: Sending PUBLISH (d0, q0, r0, m76), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m77), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m78), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m79), 'b'746770045049742/data'', ... (111 bytes)
+2.25
+1.13
+log: Sending PUBLISH (d0, q0, r0, m80), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m81), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m82), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m83), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.3
+1.2
+log: Sending PUBLISH (d0, q0, r0, m84), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m85), 'b'746770045049742/data'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m86), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m87), 'b'746770045049742/data'', ... (110 bytes)
+2.23
+1.12
+log: Sending PUBLISH (d0, q0, r0, m88), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m89), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m90), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m91), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.3
+1.34
+log: Sending PUBLISH (d0, q0, r0, m92), 'b'topic123'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m93), 'b'746770045049742/data'', ... (110 bytes)
+log: Sending PUBLISH (d0, q0, r0, m94), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m95), 'b'746770045049742/data'', ... (111 bytes)
+2.29
+1.22
+log: Sending PUBLISH (d0, q0, r0, m96), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m97), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m98), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m99), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PINGREQ
+log: Received PINGRESP
+2.23
+1.16
+log: Sending PUBLISH (d0, q0, r0, m100), 'b'topic123'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m101), 'b'746770045049742/data'', ... (111 bytes)
+log: Sending PUBLISH (d0, q0, r0, m102), 'b'topic123'', ... (111 bytes)
